@@ -1,6 +1,6 @@
 {
-  "name": "reactsetup",
-  "version": "0.1.0",
+  "name": "JesseAvila",
+  "version": "0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
